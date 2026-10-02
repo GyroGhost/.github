@@ -12,7 +12,7 @@
 
 ### What I work on
 
-- **Betaflight Configurator** — contributor (global settings search)
+- **Betaflight Configurator** — contributor 
 - Tools and guides for FPV pilots
 
 ### Find me
